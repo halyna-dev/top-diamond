@@ -1,6 +1,6 @@
-top-diamond
+Top-diamond
 -----------
-[**Demo**]([https://halyna-dev.github.io/top-diamond/)
+[**Demo**](https://halyna-dev.github.io/top-diamond/)
 
 The site has 5 pages, 1 submit form, gallery, tab bar, slider and responsive sticky menu.
 
